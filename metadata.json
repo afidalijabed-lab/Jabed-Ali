@@ -1,0 +1,5 @@
+{
+  "name": "Alampur Ideal Public School",
+  "description": "A comprehensive school management application for students, teachers, and administrators at Alampur Ideal Public School. Users can log in to their respective dashboards to manage profiles, view schedules, and oversee permissions.",
+  "requestFramePermissions": []
+}
